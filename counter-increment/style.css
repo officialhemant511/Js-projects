@@ -1,0 +1,25 @@
+.counter-main{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+}
+.head{
+    font-size: 39px;
+    text-align: center ;
+}
+.container{
+    /* border: 1px solid black; */
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.counter{
+    display: flex;
+    font-size: 80px;
+    align-items: center;
+    justify-content: center;
+}
